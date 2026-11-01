@@ -1,0 +1,82 @@
+{
+  "start_clean": {
+    "sounds": [
+      "qte:start_clean"
+    ]
+  },
+  "start_dark": {
+    "sounds": [
+      "qte:start_dark"
+    ]
+  },
+  "press_clean": {
+    "sounds": [
+      "qte:press_clean"
+    ]
+  },
+  "press_dark": {
+    "sounds": [
+      "qte:press_dark"
+    ]
+  },
+  "hit_clean": {
+    "sounds": [
+      "qte:hit_clean"
+    ]
+  },
+  "hit_dark": {
+    "sounds": [
+      "qte:hit_dark"
+    ]
+  },
+  "miss_clean": {
+    "sounds": [
+      "qte:miss_clean"
+    ]
+  },
+  "miss_dark": {
+    "sounds": [
+      "qte:miss_dark"
+    ]
+  },
+  "success_clean": {
+    "sounds": [
+      "qte:success_clean"
+    ]
+  },
+  "success_dark": {
+    "sounds": [
+      "qte:success_dark"
+    ]
+  },
+  "fail_clean": {
+    "sounds": [
+      "qte:fail_clean"
+    ]
+  },
+  "fail_dark": {
+    "sounds": [
+      "qte:fail_dark"
+    ]
+  },
+  "tick_clean": {
+    "sounds": [
+      "qte:tick_clean"
+    ]
+  },
+  "tick_dark": {
+    "sounds": [
+      "qte:tick_dark"
+    ]
+  },
+  "heart_clean": {
+    "sounds": [
+      "qte:heart_clean"
+    ]
+  },
+  "heart_dark": {
+    "sounds": [
+      "qte:heart_dark"
+    ]
+  }
+}

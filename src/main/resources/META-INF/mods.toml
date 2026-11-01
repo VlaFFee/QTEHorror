@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="qte"
+version="1.1.0"
+displayName="QTE"
+description='''
+Quick Time Event: команда /qte запускает у игрока событие «жми быстро» (серия нажатий, удержание или точное попадание).
+Окно настроек /qte gui: количество нажатий, время, клавиша, звуки, анимации, команды при успехе и провале.
+'''
+
+[[dependencies.qte]]
+modId="forge"
+mandatory=true
+versionRange="[47.2.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.qte]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
